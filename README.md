@@ -1,4 +1,4 @@
-# Goals
+## Goals
 
 *Preparing for GBA
 *Making ROM packaging easy
