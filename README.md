@@ -8,6 +8,8 @@ Making install easy
 
 Using keys for saves
 
+Going from emulator to simulator
+
 # TI-Boy SE
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
