@@ -13,7 +13,7 @@ When finished would described every software and step by a short outline not sho
 * https://chibialiens.com/
 * https://www.ticalc.org/
 
-* https://gbdev.io
+* https://gbdev.io/
 * https://rgbds.gbdev.io/
 * https://eldred.fr/gb-asm-tutorial/
 
