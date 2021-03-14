@@ -8,32 +8,14 @@
 
 ### Supported Research
 
-Design
-Sound
-Production
-Programming
+When finished would described every software and step by a short outline not showing all the contents.
 
-System
 https://chibialiens.com/
 https://www.ticalc.org/
 
-Software
 https://gbdev.io
 https://rgbds.gbdev.io/
 https://eldred.fr/gb-asm-tutorial/
-
-Art
-
-Design      
-Programming ASM
-Art         Sprite or GfX
-Production  GitHub
-Sound       SfX or Chip
-
-Sound file
- music file
-  media
-   tune
 
 # TI-Boy SE
 
