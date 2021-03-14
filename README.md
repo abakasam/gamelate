@@ -17,6 +17,9 @@ When finished would described every software and step by a short outline not sho
 * https://rgbds.gbdev.io/
 * https://eldred.fr/gb-asm-tutorial/
 
+* http://dwedit.org/
+* https://www.dwedit.org/dwedit_board/
+
 # TI-Boy SE
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
