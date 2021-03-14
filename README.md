@@ -6,6 +6,35 @@
 * Using keys for saves
 * Going from emulator to simulator
 
+### Supported Research
+
+Design
+Sound
+Production
+Programming
+
+System
+https://chibialiens.com/
+https://www.ticalc.org/
+
+Software
+https://gbdev.io
+https://rgbds.gbdev.io/
+https://eldred.fr/gb-asm-tutorial/
+
+Art
+
+Design      
+Programming ASM
+Art         Sprite or GfX
+Production  GitHub
+Sound       SfX or Chip
+
+Sound file
+ music file
+  media
+   tune
+
 # TI-Boy SE
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
