@@ -8,7 +8,7 @@
 
 ### Supported Research
 
-When finished would described every software and step by a short outline not showing all the contents.
+When finished would understand game and OS by Assembly from C.
 
 * https://chibialiens.com/
 * https://www.ticalc.org/
