@@ -11,13 +11,13 @@
 When finished would understand game and OS by Assembly from C.
 
 #### Hardware
-* [Game Boy Project.pdf](https://github.com/abakasam/gamelate/files/6225627/Game.Boy.Project.pdf)
-* https://pdf1.alldatasheet.com/datasheet-pdf/view/89453/HARRIS/82C55A.html
-* http://www.devrs.com/gb/files/hardware.html
-
-#### Software
+* [Game Boy Project](https://github.com/abakasam/gamelate/files/6225627/Game.Boy.Project.pdf)
+* [?] https://pdf1.alldatasheet.com/datasheet-pdf/view/89453/HARRIS/82C55A.html
+* [?] http://www.devrs.com/gb/files/hardware.html
 * https://gbdev.io/pandocs/
 * https://chibialiens.com/
+
+#### Software
 * http://mgba.io/
 * http://endrift.github.io/gbajs/
 * https://gbdev.io/
