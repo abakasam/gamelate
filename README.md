@@ -33,7 +33,7 @@ When finished would understand game and OS by Assembly from C.
 * http://fms.komkon.org/VGBA/
 
 
-#### Game Development
+#### Development
 * https://videlais.com/2016/07/03/programming-game-boy-games-using-gbdk-part-1-configuring-programming-and-compiling/ (GB)
 * https://www.reinterpretcast.com/writing-a-game-boy-advance-game (GBA)
 
