@@ -17,6 +17,8 @@ When finished would understand game and OS by Assembly from C.
 * https://eldred.fr/gb-asm-tutorial/
 * http://dwedit.org/
 * https://www.dwedit.org/dwedit_board/
+* http://mgba.io/
+* http://endrift.github.io/gbajs/
 
 ## Creating Application
 
