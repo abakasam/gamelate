@@ -17,6 +17,8 @@ When finished would understand game and OS by Assembly from C.
 * https://gbdev.io/pandocs/
 * https://chibialiens.com/
 * http://marc.rawer.de/Gameboy/
+* https://gbadev.net/
+* https://problemkaputt.de/gbatek.htm
 
 #### Software
 * http://mgba.io/
