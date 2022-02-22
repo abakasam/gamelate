@@ -13,3 +13,11 @@ https://github.com/abakasam/pokemon#readme
   - DS
   - PSP
 - Gamelate
+
+Computer viruses are not AI.
+Expert systems is not AI.
+Aisam is not AI.
+Aisam has 8 projects.
+Aquaogen only works on Drifty.
+The work produced at the top right is by Asail.
+Made for CoreWar, then GameBoy.
