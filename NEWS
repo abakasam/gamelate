@@ -1,0 +1,10 @@
+0.0.0
+
+Translate simple gameboy game from C# to Z80
+ 
+xna book											  C#
+https://github.com/dotnet/corert 					  C# > C++
+https://github.com/farisawan-2000/cfront-3 			  C++ > C
+https://github.com/rdbv/cisol						  C > ASM
+https://bzc.sourceforge.net/						  ASM > Z80
+https://packages.debian.org/buster/amd64/devel/z80asm Z80
